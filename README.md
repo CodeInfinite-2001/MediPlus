@@ -1,6 +1,6 @@
 # MediPlus — Secure Hospital Management System for Sri Lanka - 
 # Host link : 
-[mediplus-production-3304.up.railway.app]
+[mediplus](mediplus-production-3304.up.railway.app)
 ![MediPlus Header](public/logo.svg)
 
 **MediPlus** is a production-grade, secure, and lightweight Hospital Management System (HMS) architected specifically for hospitals, medical centers, and clinical practices in **Sri Lanka**.
